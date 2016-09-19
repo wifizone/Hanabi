@@ -1,1 +1,8 @@
 \\mac\home\documents\visual studio 2015\Projects\Hanabi\Hanabi\bin\Debug\Hanabi.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hanabi\Hanabi\bin\Debug\Hanabi.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hanabi\Hanabi\bin\Debug\Hanabi.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hanabi\Hanabi\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hanabi\Hanabi\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hanabi\Hanabi\obj\Debug\Hanabi.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hanabi\Hanabi\obj\Debug\Hanabi.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Hanabi\Hanabi\obj\Debug\Hanabi.pdb
